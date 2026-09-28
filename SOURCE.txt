@@ -1,0 +1,12 @@
+Godot Mod Loader
+https://github.com/GodotModding/godot-mod-loader
+Branch: 4.x-dev
+Commit: 0bdf7e4e92aca7ecaead18fb63df4a38090d255d
+Reported loader version: 7.0.1
+
+JSON Schema Validator is included under addons/JSON_Schema_Validator with its own license file.
+
+Godot RE Tools
+https://github.com/GDRETools/gdsdecomp
+Version: 2.6.3
+The license is included under addons/mod_loader/vendor/GDRE/LICENSE.txt.
